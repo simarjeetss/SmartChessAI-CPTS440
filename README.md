@@ -32,7 +32,8 @@ conda env create -f ChessAi.yml
 ```
 
 - In the event of an error during the loading of the pretrained model, it can be resolved by manually downloading and replacing the `saves\pretrained\ChessAi_model_main_checkpoint\keras_metadata.pb` file. This issue is caused by a known Git bug and is outside of our control.
-- Due to size restrictions, the pretrained model files could not be included in the repository. Please download and extract these files into the project's root directory to ensure proper functionality.
+- **Important:** The pretrained model files could not be uploaded directly to the repository due to size limitations. Please download the necessary model files from the following Google Drive link and extract them into the root directory of the project:
+[Download Pretrained Model Files](https://drive.google.com/drive/folders/15tKfkTosqflaKJ54hZbXUa1A5Cf2yqr2?usp=sharing)
 
 ### Required Packages and Versions
 All required packages and their specific versions are listed in the `requirements.txt` file. Please install them accordingly.
