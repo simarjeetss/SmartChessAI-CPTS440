@@ -1,7 +1,5 @@
 # ChessAi with Deep Q-Learning
 
-<img src="rsc/startingPosition.png" width="50%" height="50%">
-
 # Table of Contents
 1. [Game Rules](#Game-Rules)
 2. [Installation and Usage](#Installation-and-Usage)
